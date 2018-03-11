@@ -1,2 +1,3 @@
 add some text
 G-git add ADD
+G-git add add
